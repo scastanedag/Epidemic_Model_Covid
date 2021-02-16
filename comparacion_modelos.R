@@ -2,7 +2,7 @@
 #con los respectivos intervalos de confianza que se ven en la sombra de la gráfica. En este caso se utiliza para comparar
 #los resultados de dos modelos para el cáculo del rt. 
 
-#Realizado por Sergio Castañeda
+#Realizado por Sergio Castañeda. Universidad del Rosario. Centro de Investigaciones en Microbiología y Biotecnología UR. CIMBIUR
 
 
 #se cargan las librerías necesarias
