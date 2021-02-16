@@ -2,7 +2,7 @@
 #por la WHO para el cálculo del rt a partir de EpiEstim utilizando el número de casos reportados en fechas específicas 
 #según el paquete R “EpiEstim” (Cori et al., 2019, 2013; R Core Team, 2019).
 
-#Realizado por Sergio Castañeda. Universidad del Rosario
+#Realizado por Sergio Castañeda. Universidad del Rosario. Universidad del Rosario. Centro de Investigaciones en Microbiología y Biotecnología UR. CIMBIUR
 
 #se instalan y cargan los paquetes necesarios
 
