@@ -4,7 +4,7 @@
 #Realizado por Sergio Castañeda
 
 
-#se instalan y cargan los paquetes necesarios
+#se instalan y cargan los paquetes necesarios. Universidad del Rosario. Centro de Investigaciones en Microbiología y Biotecnología UR. CIMBIUR
 
 install.packages("dplyr")
 
