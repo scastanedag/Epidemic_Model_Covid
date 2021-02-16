@@ -3,7 +3,7 @@
 #En este caso se utiliza para comprar el comportamiento de casos notificados vs casos por incio de sínntomas.
 
 
-#Realizado por Sergio Castañeda
+#Realizado por Sergio Castañeda. Universidad del Rosario. Centro de Investigaciones en Microbiología y Biotecnología UR. CIMBIUR
 
 # Se cargan las librerías necesarias
 library(dplyr)
