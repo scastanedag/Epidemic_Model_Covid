@@ -8,3 +8,4 @@ Permite generar gráficos dinámicos y fijos relacionados con el comportamiento 
 Adicionalmente permite generar gráficos comparativos en los cuales se muestra el comportamiento de un valor (línea) y su relación con los respectivos intervalos de confianza que se ven en la sombra de la gráfica. En este caso se utiliza para comparar los resultados de dos modelos para el cáculo del rt. 
 
 Complementariamente presenta un código que permite el preprocesamiento y alistamiento de los datos con el fin de que se encuentren óptimos para ingresar al modelo.
+
