@@ -3,7 +3,7 @@
 #se realiza de acuerdo a la guía encontrada en https://cran.r-project.org/web/packages/EpiEstim/vignettes/demo.html
 
 
-#Realizado por Sergio Castañeda
+#Realizado por Sergio Castañeda. Universidad del Rosario. Centro de Investigaciones en Microbiología y Biotecnología UR. CIMBIUR
 
 
 
